@@ -7,6 +7,9 @@ I gratuated from Bartin University Department of Management Information Systems 
 - 🏘️I'm based in İstanbul.
 - 📧 You can contact me at sercankurban1996@gmail.com
 
+### Connect with me:
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sercan-kurban)
+
 ### Languages and Tools
 
 [![My Skills](https://skills.thijs.gg/icons?i=cs,js,html,css,react,java,r)](https://skills.thijs.gg)
