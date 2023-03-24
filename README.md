@@ -11,6 +11,15 @@ I gratuated from Bartin University Department of Management Information Systems 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sercan-kurban)
 [![text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sercankurban1996?hr_r=1)
 
-### Languages and Tools
+### Languages and Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=cs,js,html,css,react,java,r)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c)](https://www.cprogramming.com)
+[![My Skills](https://skills.thijs.gg/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skills.thijs.gg/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![My Skills](https://skills.thijs.gg/icons?i=java)](https://dev.java)
+[![My Skills](https://skills.thijs.gg/icons?i=postgresql)](https://www.postgresql.org)
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://html.com)
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://getbootstrap.com)
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://www.javascript.com)
+[![My Skills](https://skills.thijs.gg/icons?i=react)](https://react.dev)
