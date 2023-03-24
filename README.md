@@ -9,6 +9,7 @@ I gratuated from Bartin University Department of Management Information Systems 
 
 ### Connect with me:
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sercan-kurban)
+[![text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sercankurban1996?hr_r=1)
 
 ### Languages and Tools
 
